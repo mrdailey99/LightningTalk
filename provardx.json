@@ -1,0 +1,33 @@
+{
+   "provarHome":"C:/Program Files/Provar/",
+   "projectPath":"C:/Users/mrdai/git/DevOpsDemo/LightningTalk",
+   "resultsPath":"C:/Users/mrdai/git/DevOpsDemo/LightningTalk/provardx/Results",
+   "smtpPath": "",
+   "resultsPathDisposition": "Increment", 
+   "testOutputLevel":"BASIC",
+   "pluginOutputlevel":"WARNING",
+   "stopOnError":false,
+   "lightningMode":true,
+   "connectionRefreshType":"Reload",
+   "metadata":{
+      "metadataLevel":"Reuse",
+      "cachePath":"../.provarCaches"
+   },
+   "environment":{
+      "testEnvironment":"",
+      "webBrowser":"Chrome",
+      "webBrowserConfig":"Full Screen",
+      "webBrowserProviderName":"Desktop",
+      "webBrowserDeviceName":"Full Screen"
+   }
+   ,"testprojectSecrets":"Thisisareallylongpassword1980"
+   ,"testplanFeatures":[
+		{"name":"PDF", "type":"OUTPUT", "enabled":"true"}
+		,{"name":"PIECHART", "type":"OUTPUT", "enabled":"true"}
+		,{"name":"TEST_MANAGER", "type":"REPORTING", "enabled":"true"}
+		,{"name":"EMAIL", "type":"NOTIFICATION", "enabled":"true"}
+   ]
+   ,"testPlan":[
+    	"/Trailhead"  
+   ]
+}

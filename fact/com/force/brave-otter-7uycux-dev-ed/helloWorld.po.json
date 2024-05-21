@@ -1,0 +1,47 @@
+{
+  "componentId" : "17980bb1-1c7d-4bfd-a2b0-e81ef05023e0",
+  "name" : "/com/force/brave-otter-7uycux-dev-ed/helloWorld",
+  "tagName" : "c-hello-world",
+  "parameters" : [ ],
+  "type" : "Page",
+  "pageStructureElement" : false,
+  "fieldDetailsElement" : false,
+  "elements" : [ {
+    "componentId" : "362f7b1a-9243-49a9-b6a3-f70175d88290",
+    "type" : "component::23229240-c74c-407d-97be-9bddb587e0cc",
+    "label" : "HelloWorld",
+    "properties" : [ ],
+    "parameters" : [ {
+      "name" : "title",
+      "value" : "HelloWorld",
+      "comparisonType" : "equals",
+      "default" : true
+    } ],
+    "elements" : [ {
+      "type" : "content",
+      "elements" : [ {
+        "componentId" : "6941a1c9-6dd6-4191-b468-2b69f2493ca8",
+        "type" : "component::5cd71547-c934-470c-9115-a10fe7f0307f",
+        "label" : "Name",
+        "properties" : [ ],
+        "parameters" : [ {
+          "name" : "class",
+          "value" : "slds-form-element",
+          "comparisonType" : "contains",
+          "default" : false
+        }, {
+          "name" : "label",
+          "value" : "Name",
+          "comparisonType" : "equals",
+          "default" : false
+        }, {
+          "name" : "type",
+          "value" : "text",
+          "comparisonType" : "equals",
+          "default" : true
+        } ],
+        "elements" : [ ]
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testPlanInstance guid="326b0d8e-d82e-4147-8f8e-d4ebe7175c4e" testCaseId="90b13ce6-22bd-4e1f-a69e-f6b14e6094d2" testCasePath="tests/Complete a Trailhead.testcase">
+  <planSettings/>
+  <planFeatures/>
+  <associations>
+    <association assocationType="TM.TEST_SUITE_CASE" connectionId="8caff93d-774e-4b71-b21d-e6dc408e979d" entityKey="a0cJ7000000kAcNIAU"/>
+  </associations>
+</testPlanInstance>
