@@ -20,7 +20,7 @@
       "webBrowserProviderName":"Desktop",
       "webBrowserDeviceName":"Full Screen"
    }
-   ,"testprojectSecrets":"Thisisareallylongpassword1980"
+   ,"testprojectSecrets":""
    ,"testplanFeatures":[
 		{"name":"PDF", "type":"OUTPUT", "enabled":"true"}
 		,{"name":"PIECHART", "type":"OUTPUT", "enabled":"true"}

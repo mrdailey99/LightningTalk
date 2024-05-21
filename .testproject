@@ -29,6 +29,16 @@
         </connection>
       </connections>
     </connectionClass>
+    <connectionClass name="sf">
+      <connections>
+        <connection id="91de841a-7ffc-4c9a-a219-c067c2d37a29" name="Admin">
+          <summary/>
+          <connectionUrls>
+            <connectionUrl secureStorageNodeId="b078cd7d-3cda-466f-bc01-f91f094ecbb8" url="sf:user=demo@provartesting.com.dev;password={password};environment=SANDBOX;lightningMode=true"/>
+          </connectionUrls>
+        </connection>
+      </connections>
+    </connectionClass>
   </connectionClasses>
   <browserConfigurations>
     <browserConfiguration adjustBrowserWidthForChromeIde="true" browserHeight="0" browserWidth="0" name="Full Screen">

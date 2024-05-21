@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testCase guid="90b13ce6-22bd-4e1f-a69e-f6b14e6094d2" id="0">
+<testCase guid="90b13ce6-22bd-4e1f-a69e-f6b14e6094d2" id="8" registryId="90b13ce6-22bd-4e1f-a69e-f6b14e6094d2">
   <summary/>
   <steps>
     <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiConnect" guid="f00430b3-02f6-4c94-a286-2f85a17d47df" name="UiConnect" testItemId="1" title="UI Connect: Trailhead">
@@ -698,6 +698,6 @@
     </apiCall>
   </steps>
   <associations>
-    <association assocationType="TM.TEST_CASE" connectionId="8caff93d-774e-4b71-b21d-e6dc408e979d" entityKey="a0RJ7000000HANqMAO" lastUploadedDateTime="2024-05-21T04:23:04Z"/>
+    <association assocationType="TM.TEST_CASE" connectionId="8caff93d-774e-4b71-b21d-e6dc408e979d" entityKey="a0RJ7000000HANqMAO" lastModifiedDateTime="2024-05-21T04:51:29Z" lastUploadedDateTime="2024-05-21T05:07:07Z"/>
   </associations>
 </testCase>
