@@ -47,7 +47,8 @@ $RECYCLE.BIN/
 # Provar files
 **/Results*
 provardx/
-**/*.class
+bin/pageobjects
+bin/customapis
 **/*.pdf
 **/.provarCaches*
 **/.metadata*
